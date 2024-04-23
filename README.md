@@ -23,10 +23,9 @@ git clone https://github.com/whopee/GPT-PDF-Chatbot-Using-OpenAI-Streamlit.git
 ```python
 OPENAI_API_KEY="your-api-key"
 ```
+![Screenshot_20240423_022525](https://github.com/whopee/GPT-PDF-Chatbot-Using-OpenAI-Streamlit/assets/55501058/445b6ca9-8e66-46f0-b356-ccc0602b14b3)
 
 
-![Screenshot_20240423_022525](https://github.com/whopee/GPT-PDF-Chatbot-Using-OpenAI-Streamlit/assets/55501058/8ba6a07a-cf1d-4f2c-a0ae-a8d81362f0f6)
-![Screenshot_20240423_022702](https://github.com/whopee/GPT-PDF-Chatbot-Using-OpenAI-Streamlit/assets/55501058/5329f546-2a36-408c-be61-c6f2b7800a76)
 
 
 
