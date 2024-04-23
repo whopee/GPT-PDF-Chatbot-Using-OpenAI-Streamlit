@@ -12,4 +12,17 @@ GPT PDF Chatbot is a web-based conversational AI chatbot that can analyze and su
 pip install openai langchain streamlit
 ```
 
+2. Clone this repository:
+
+```python
+git clone https://github.com/whopee
+/
+GPT-PDF-Chatbot-Using-OpenAI-Streamlit
+```
+
+3. Create a .env file in the root directory of the repository and add your OpenAI API key:
+
+```python
+OPENAI_API_KEY="your-api-key"
+```
 
