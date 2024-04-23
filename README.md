@@ -15,9 +15,7 @@ pip install openai langchain streamlit
 2. Clone this repository:
 
 ```python
-git clone https://github.com/whopee
-/
-GPT-PDF-Chatbot-Using-OpenAI-Streamlit
+git clone https://github.com/whopee/GPT-PDF-Chatbot-Using-OpenAI-Streamlit.git
 ```
 
 3. Create a .env file in the root directory of the repository and add your OpenAI API key:
