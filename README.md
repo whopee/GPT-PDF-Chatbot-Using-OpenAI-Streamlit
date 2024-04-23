@@ -7,9 +7,9 @@ GPT PDF Chatbot is a web-based conversational AI chatbot that can analyze and su
 ### Installation
 1. Install the required packages:
 
- <pre>
-```linux
+
+```python
 pip install openai langchain streamlit
 ```
-</pre>
+
 
